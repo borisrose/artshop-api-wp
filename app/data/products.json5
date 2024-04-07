@@ -1,0 +1,23 @@
+[
+  {
+    id:7,
+    url: 'https://cdn.pixabay.com/photo/2023/01/18/15/31/ballerina-7727203_1280.jpg',
+    name: 'The little dancer',
+    price: 200.0,
+    description: 'Why is she so nice ? She is up to no good',
+  },
+  {
+    id:8,
+    url: 'https://cdn.pixabay.com/photo/2022/01/07/07/59/woman-6921352_1280.jpg',
+    name: 'What a strange face',
+    price: 100.0,
+    description: 'She is really strange. I wonder why the author decided to give her such a strange face.',
+  },
+  {
+    id:9,
+    url: 'https://cdn.pixabay.com/photo/2022/02/03/08/49/kiss-6989996_1280.jpg',
+    name: 'Who is who',
+    price: 500.0,
+    description: 'Never seen such a couple',
+  },
+]

@@ -1,0 +1,24 @@
+# Liste des produits
+[[products]]
+id = 10
+name = "Lady and colos"
+price = 400.00
+url = "https://cdn.pixabay.com/photo/2024/04/03/15/13/ai-generated-8673214_1280.png"
+description = "Beauty is enough ? I wonder if we can try and understand something more about this woman. Why insist on beauty when emotions can be questioned"
+author = "Roses Street"
+
+[[products]]
+id = 11
+name = "Sadness in his eyes"
+price = 1000.00
+url = "https://cdn.pixabay.com/photo/2024/01/20/12/12/ai-generated-8520972_1280.png"
+description = "This man seems to have a dim future or gloomy past, I wonder what his trials have been for him to look as though he was at the brink of sinking into oblivion"
+author = "Roses Street"
+
+# [[products]]
+# id = 12
+# name = "Intertwined faces"
+# price = 400.00
+# url = "https://cdn.pixabay.com/photo/2022/02/26/09/04/faces-7035480_1280.jpg"
+# description = "Sometimes what you see is not what you should. Faces aren't new to us, so what it the originality of this ? Looking further is the way to answer that question."
+# author = "Bianca Van Dijk"

@@ -1,0 +1,244 @@
+{
+  "date": "2024-04-07T22:51:06.235Z",
+  "argv": [
+    "/opt/homebrew/Cellar/node/21.7.1/bin/node",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/__test__/app.test.js"
+  ],
+  "execArgv": [
+    "--import=file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import.mjs",
+    "--import=file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/import.mjs",
+    "--enable-source-maps",
+    "--import=file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/processinfo/dist/esm/import.mjs"
+  ],
+  "NODE_OPTIONS": "\"--import=file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/processinfo/dist/esm/import.mjs\"",
+  "cwd": "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh",
+  "pid": 40676,
+  "ppid": 40675,
+  "parent": null,
+  "uuid": "f7ec8c6f-91da-4a04-af62-97c18feaf4ae",
+  "files": [
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/__test__/app.test.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import.mjs",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import-loader.mjs",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/import.mjs",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/mock-service.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/export-line.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/is-relative-require.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/resolve-mock-entry-point.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/munge-mocks.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/service-key.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/call-site-like.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/require-resolve.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-all-conditional-values.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-all-conditions.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-unique-condition-sets.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-all-exports.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-all-local-imports.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-conditional-value.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-import.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/is-windows.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-conditional-values-list.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-named-exports-list.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/read-pkg.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/errors.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-export.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/star-glob.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/to-path.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/parse.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/file-exists.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/find-dep-package.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/to-file-url.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-dependency-export.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-package-import.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/read-json.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/find-star-match.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/walk-up-path/dist/mjs/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/glob.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/has-magic.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/assert-valid-pattern.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/ast.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/escape.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/unescape.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/path-scurry/dist/esm/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/pattern.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/walker.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/brace-expressions.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/minipass/dist/esm/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/ignore.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/processor.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/path-scurry/node_modules/lru-cache/dist/esm/index.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/loader.mjs",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/hooks.mjs",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/mock-service-client.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/routes/local-products-routes.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/controllers/LocalProductsController.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/routes/test-routes.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/controllers/TestController.js",
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/services/ChildService.js"
+  ],
+  "sources": {
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/import.mjs": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/src/import.mts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/mock-service.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/src/mock-service.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/src/index.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/index.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/export-line.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/src/export-line.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/is-relative-require.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/is-relative-require.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/resolve-mock-entry-point.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/src/resolve-mock-entry-point.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/munge-mocks.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/src/munge-mocks.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/dist/esm/service-key.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/mock/src/service-key.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/call-site-like.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/src/call-site-like.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/require-resolve.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/src/require-resolve.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-all-conditional-values.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/get-all-conditional-values.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-all-conditions.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/get-all-conditions.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-unique-condition-sets.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/get-unique-condition-sets.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-all-exports.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/resolve-all-exports.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-all-local-imports.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/resolve-all-local-imports.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-conditional-value.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/resolve-conditional-value.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-import.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/resolve-import.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/is-windows.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/is-windows.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-conditional-values-list.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/get-conditional-values-list.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/get-named-exports-list.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/get-named-exports-list.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/read-pkg.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/read-pkg.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/errors.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/errors.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-export.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/resolve-export.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/star-glob.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/star-glob.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/to-path.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/to-path.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/dist/esm/parse.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/@tapjs/stack/src/parse.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/file-exists.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/file-exists.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/find-dep-package.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/find-dep-package.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/to-file-url.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/to-file-url.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-dependency-export.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/resolve-dependency-export.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/resolve-package-import.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/resolve-package-import.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/read-json.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/read-json.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/dist/esm/find-star-match.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/src/find-star-match.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/walk-up-path/dist/mjs/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/walk-up-path/src/index.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/src/index.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/src/index.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/glob.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/src/glob.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/has-magic.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/src/has-magic.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/assert-valid-pattern.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/src/assert-valid-pattern.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/ast.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/src/ast.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/escape.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/src/escape.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/unescape.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/src/unescape.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/path-scurry/dist/esm/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/path-scurry/src/index.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/pattern.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/src/pattern.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/walker.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/src/walker.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/dist/esm/brace-expressions.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/minimatch/src/brace-expressions.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/minipass/dist/esm/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/minipass/src/index.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/ignore.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/src/ignore.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/dist/esm/processor.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/resolve-import/node_modules/glob/src/processor.ts"
+    ],
+    "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/path-scurry/node_modules/lru-cache/dist/esm/index.js": [
+      "/Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/node_modules/path-scurry/node_modules/lru-cache/src/index.ts"
+    ]
+  },
+  "root": "f7ec8c6f-91da-4a04-af62-97c18feaf4ae",
+  "externalID": "__test__/app.test.js",
+  "code": 0,
+  "signal": null,
+  "runtime": 668.758334
+}

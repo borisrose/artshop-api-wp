@@ -1,0 +1,25 @@
+[
+  {
+    "id":4,
+    "url": "https://cdn.pixabay.com/photo/2024/03/01/12/20/ai-generated-8606435_1280.png",
+    "description": "She is from a comic book, that's certain",
+    "price": 200.0,
+    "name": "Lady in a rush"
+  },
+
+  {
+    "id":5,
+    "url": "https://cdn.pixabay.com/photo/2024/03/01/12/20/ai-generated-8606436_1280.png",
+    "description": "She must be a warrior, a resistant because she looks determined",
+    "price": 400.0,
+    "name": "The fighter"
+  },
+  
+  {
+    "id":6,
+    "url": "https://cdn.pixabay.com/photo/2024/01/23/15/12/woman-8527771_1280.jpg",
+    "description": "She does not want anybody to notice her while she is meeting with her lover",
+    "price": 400.0,
+    "name": "The famouse one"
+  }
+]

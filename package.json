@@ -1,0 +1,33 @@
+{
+  "name": "artshop-ft-nd-wp-es-pr-js-sh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --reporter=list",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^8.0.0",
+    "@iarna/toml": "^2.2.5",
+    "fastify": "^4.26.2",
+    "fastify-cors": "^6.1.0",
+    "js-yaml": "^4.1.0",
+    "node-fetch": "^2.7.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "json5": "^2.2.3",
+    "nodemon": "^3.1.0",
+    "pino-pretty": "^11.0.0",
+    "tap": "^18.7.2",
+    "toml": "^3.0.0",
+    "yamljs": "^0.3.0"
+  }
+}

@@ -1,0 +1,7 @@
+const LocalProductsController = require('../controllers/LocalProductsController.js')
+
+async function routes (fastify, options) {
+    fastify.get('/local-products', LocalProductsController.getProducts)
+}
+
+module.exports = routes

@@ -1,0 +1,174 @@
+{
+  "result": [
+    {
+      "scriptId": "642",
+      "url": "file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 323,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "build",
+          "ranges": [
+            {
+              "startOffset": 166,
+              "endOffset": 296,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "929",
+      "url": "file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/routes/local-products-routes.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 227,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "routes",
+          "ranges": [
+            {
+              "startOffset": 86,
+              "endOffset": 202,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "930",
+      "url": "file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/controllers/LocalProductsController.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 823,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getProducts",
+          "ranges": [
+            {
+              "startOffset": 219,
+              "endOffset": 777,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "964",
+      "url": "file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/routes/test-routes.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 186,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "routes",
+          "ranges": [
+            {
+              "startOffset": 64,
+              "endOffset": 161,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "965",
+      "url": "file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/controllers/TestController.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 363,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "getTestData",
+          "ranges": [
+            {
+              "startOffset": 93,
+              "endOffset": 328,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        }
+      ]
+    },
+    {
+      "scriptId": "966",
+      "url": "file:///Users/borisrose/Desktop/artshop-ft-nd-wp-es-pr-js-sh/app/services/ChildService.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 1069,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "exec",
+          "ranges": [
+            {
+              "startOffset": 107,
+              "endOffset": 1035,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        }
+      ]
+    }
+  ],
+  "timestamp": 46181.750084,
+  "source-map-cache": {}
+}

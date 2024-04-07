@@ -1,0 +1,19 @@
+products:
+  - name: "Woman and flower"
+    id: 16
+    price: 500.00
+    url: "https://cdn.pixabay.com/photo/2023/05/30/17/20/woman-8029209_1280.jpg"
+    description: "I wonder what she is looking at"
+    author: "Bianca Van Dijk"
+  - name: "Woman and sunglases"
+    id: 17
+    price: 300.00
+    url: "https://cdn.pixabay.com/photo/2023/03/07/11/58/woman-7835587_1280.jpg"
+    description: "What does she want to run away from ?"
+    author: "Bianca Van Dijk"
+  - name: "The star you always loved"
+    id: 18
+    price: 600.00
+    url: "https://cdn.pixabay.com/photo/2022/03/05/10/08/beauty-7048849_1280.jpg"
+    description: "She has so many admirers, so many friends, so many foes"
+    author: "Bianca Van Dijk"
