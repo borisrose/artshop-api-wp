@@ -1,11 +1,11 @@
-const products = require("../data/products.json");
+const products = require("../data/local_data_sources/products.json");
 const JSON5 = require("json5");
 const fs = require("node:fs");
 const yaml = require("js-yaml");
 const toml = require("toml");
 
 class LocalProductsController {
-  static async getProducts(request, reply) {
+  static async getProducts(request, reply, app) {
     const json5Content = fs.readFileSync("./app/data/products.json5", "utf8");
     const json5Products = await JSON5.parse(json5Content);
     const yamlContent = fs.readFileSync("./app/data/products.yaml", "utf8");

@@ -1,0 +1,1 @@
+npm i fastify-socket.io socket.io
